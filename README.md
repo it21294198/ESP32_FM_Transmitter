@@ -54,7 +54,7 @@ A nearby FM radio can receive the signal.
 #### ⚠️ Do NOT connect GPIO0 to GND after flashing.
 
 ### 📜 Code (sine-wave FM modulation)
-```
+```cpp
 #include <math.h>
 #include "soc/rtc.h"
 #include "soc/rtc_cntl_reg.h"
