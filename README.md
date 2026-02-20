@@ -150,3 +150,5 @@ Use:
 2. Proper LC filter
 3. Shielded design
 4. Regulated power
+
+![singal](/images/signal.webp)
